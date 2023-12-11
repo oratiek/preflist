@@ -1,5 +1,10 @@
 ## pref-list
 
+## Installation
+```bash
+pip install -e .
+```
+
 ## usage
 - import
 ```python
